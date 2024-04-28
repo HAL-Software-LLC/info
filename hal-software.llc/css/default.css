@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: lightgreen;
 }
 
 table, th, td {
@@ -10,4 +10,8 @@ table, th, td {
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+}
+
+pre {
+  white-space: pre-line;
 }
